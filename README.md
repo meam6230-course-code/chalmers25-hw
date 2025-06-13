@@ -1,6 +1,6 @@
 # Chalmers Figueroa PhD Course Homework (Summer 2025)
 
-Maintainers: Contact Prof. Figueroa
+Maintainers: Contact Prof. Figueroa or virtual TAs on Discord
 
 This repo is the course homework repo for the PhD course on Learning and Control for Adaptive and Reactive Robots @ Chalmers.
 
